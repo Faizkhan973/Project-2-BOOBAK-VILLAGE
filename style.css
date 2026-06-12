@@ -57,7 +57,7 @@ body{
 ========================================================= */
 .hero{
     height: 90vh;
-    background-image: url("image/boobak.jpg") center/cover no-repeat;
+    background-image: url("image/Boobak.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
